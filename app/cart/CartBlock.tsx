@@ -1,4 +1,6 @@
-import Indec from "../components/In-Dec";
+"use client"
+
+import Indec from './indec'
 
 export default function CartBlock() {
   return (
@@ -19,7 +21,7 @@ export default function CartBlock() {
       </div>
 
       <div className="mt-2 md:mt-0 md:mr-4">
-        <Indec quantity={10} onQuantityChange={10} />
+        <Indec />
       </div>
     </div>
   );
