@@ -1,0 +1,43 @@
+{
+    "data" : [{
+        "Name" : "Bluetooth Wireless Earbuds",
+        "Price" : "$29.99",
+        "Image": "https://cdn.shopify.com/s/files/1/0057/8938/4802/products/616b4ead-bbd9-4a16-aeab-8d331a16f697_1875x.png?v=1642405569"
+    },{
+        "Name" : "Smartphone Stand with Wireless Charger",
+        "Price" : "$39.99",
+        "Image": "https://www.stuffcool.com/cdn/shop/files/1_ca3158e2-7084-4846-ac8d-2b34d2e86fde_1800x1800.jpg?v=1694599516"
+    },{
+        "Name" : "Portable Power Bank 10000mAh",
+        "Price" : "$19.99",
+        "Image": "https://www.stuffcool.com/cdn/shop/files/PBCLICKPROBLUSC1_1800x1800.jpg?v=1697446810"
+    },{
+        "Name" : "4K HD Webcam",
+        "Price" : "$49.99",
+        "Image": "https://m.media-amazon.com/images/I/71eGb1FcyiL._SL1500_.jpg"
+    },{
+        "Name" : "Adjustable Laptop Desk Stand",
+        "Price" : "$49.99",
+        "Image": "https://m.media-amazon.com/images/I/51b0mqwLKZL._SL1293_.jpg"
+    },{
+        "Name" : "Noise-Canceling Over-Ear Headphones",
+        "Price" : "$89.99",
+        "Image": "https://in.jbl.com/dw/image/v2/BFND_PRD/on/demandware.static/-/Sites-masterCatalog_Harman/default/dwfea2c1ef/1.JBL_Tune_770NC_Product%20Image_Hero_Black.png?sw=1605&sh=1605"
+    },{
+        "Name" : "Wireless Charging Pad",
+        "Price" : "$24.99",
+        "Image": "https://m.media-amazon.com/images/I/71U1dlGX9TL.SS700.jpg"
+    },{
+        "Name" : "Ergonomic Office Chair",
+        "Price" : "$149.99",
+        "Image": "https://in.steelcase.com/cdn/shop/products/Series_1_Seagull_Nickel_Otto_Ash_HD_Front_2000x.jpg?v=1700813461"
+    },{
+        "Name" : "Smart LED Light Bulbs (Pack of 4)",
+        "Price" : "$34.99",
+        "Image": "https://img.tatacliq.com/images/i8/1348Wx2000H/MP000000013063214_1348Wx2000H_202205072202251.jpeg"
+    },{
+        "Name" : "Fitness Tracker Watch",
+        "Price" : "$59.99",
+        "Image": "https://images.samsung.com/is/image/samsung/p6pim/in/2407/gallery/in-galaxy-watch7-l310-sm-l310nzsains-542366980?$2052_1641_PNG$"
+    }]
+}
