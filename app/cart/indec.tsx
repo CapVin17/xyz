@@ -1,6 +1,6 @@
 import { useState } from "react";
 
-export default function indec()
+export default function Indec()
 {
     const[count,setcount] = useState(0);
 
